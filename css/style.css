@@ -1,0 +1,67 @@
+body{
+	background: #112A49;
+}
+
+main{
+	background: white;
+}
+header{
+	padding-top: 5px;
+	padding-bottom: 160px;
+}
+.container{
+	color: white;
+	border-radius: 20px;
+	box-shadow: 15px;
+	margin-top: 60px;
+	margin-bottom: 60px;
+}
+
+header ul li{
+	margin-top: 18px;
+	margin-right: 10px;
+	display: inline-block;
+	float: right;
+}
+section{
+	padding-bottom: 60px;
+}
+.foto{
+	box-shadow: 20px 20px #cbceff;
+	margin-left: 25px;
+}
+.texto{
+	margin-top: 60px;
+	color: #112A49;
+	font-family: Cabin;
+	margin-left: 25px;
+}
+.texto2{
+	color: #112A49;
+	margin-top: 25px;
+	margin-bottom: 30px;
+	font-family: Nunito;
+	margin-left: 25px;
+}
+.col-md-6{
+	padding: 40px;
+}
+mark{
+	color: #112A49;
+}
+.descripcion .btn{
+	color: white;
+	background: #112A49;
+	opacity: 0.6;
+  	transition: 0.5s;
+  	cursor: pointer;
+  	margin-left: 25px;
+}
+
+.descripcion .btn:hover {opacity: 1}
+}
+
+i{
+	color: #112A49;
+}
+
